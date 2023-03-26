@@ -1,0 +1,24 @@
+{
+  "name": "librarydb",
+  "version": "0.0.1",
+  "description": "Library app created with NodeJS and MongooseDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanCodeForFun/LibraryDB.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongooseDB",
+    "TOP"
+  ],
+  "author": "Johan Hellberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanCodeForFun/LibraryDB/issues"
+  },
+  "homepage": "https://github.com/JohanCodeForFun/LibraryDB#readme"
+}
