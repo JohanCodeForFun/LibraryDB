@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/JohanCodeForFun/LibraryDB/issues"
   },
-  "homepage": "https://github.com/JohanCodeForFun/LibraryDB#readme"
+  "homepage": "https://github.com/JohanCodeForFun/LibraryDB#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
 }
